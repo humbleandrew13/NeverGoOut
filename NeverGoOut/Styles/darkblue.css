@@ -1,0 +1,14 @@
+﻿body {
+    background-color: steelblue;
+    font-family: Verdana;
+}
+
+.copyright {
+    font-style: italic;
+    font-size: 10px;
+}
+
+ul {
+    list-style-position:inside;
+    text-align:center;
+}
